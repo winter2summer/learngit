@@ -1,2 +1,2 @@
-This is test get repository!
+This is a test get repository!
 AAAAA
